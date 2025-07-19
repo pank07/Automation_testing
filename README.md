@@ -36,3 +36,4 @@ pip install selenium
 ```bash
 deactivate
 ```
+<img width="1366" height="768" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/a92edf29-f277-40df-83ff-43fd82336211" />
