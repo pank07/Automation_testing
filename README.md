@@ -29,6 +29,9 @@ source selenium-evn/bin/activate
 ```bash
 pip install selenium
 ```
+<img width="1366" height="768" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/b49aa1f4-b50c-49e9-8ab5-b50ebc8c8f76" />
+
+
 - when done, deactivate
 ```bash
 deactivate
